@@ -86,9 +86,16 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+
+<img width="1919" height="1143" alt="Screenshot 2026-01-28 091742" src="https://github.com/user-attachments/assets/fc079d64-a544-456a-93f0-76f926892c57" />
+
 ### CLIENT OUTPUT:
 
+<img width="592" height="326" alt="Screenshot 2026-01-28 091818" src="https://github.com/user-attachments/assets/510b1875-b942-4d1f-a8bd-497eaa896fb0" />
+
 ### SERVER OUTPUT:
+
+<img width="595" height="348" alt="Screenshot 2026-01-28 091810" src="https://github.com/user-attachments/assets/e884f37b-ba7f-4c1b-a6aa-92fdf110b2c0" />
 
 ## RESULT:
 The program is executed succesfully
