@@ -1,5 +1,4 @@
-# Echoserver
-Echo server and client using python socket
+
 # AIM:
 
 To develop a simple webserver to serve html programming pages.
@@ -86,9 +85,18 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![WhatsApp Image 2026-01-30 at 8 47 58 AM](https://github.com/user-attachments/assets/14075063-7235-4407-b546-ef55d91e5644)
+
 ### CLIENT OUTPUT:
 
+<img width="729" height="359" alt="image" src="https://github.com/user-attachments/assets/f3149d25-fb79-4086-beda-2e6a17f58d74" />
+
+
 ### SERVER OUTPUT:
+<img width="885" height="374" alt="image" src="https://github.com/user-attachments/assets/85f6db88-06a1-4066-86a5-573564b91538" />
+
+
+
 
 ## RESULT:
 The program is executed succesfully
